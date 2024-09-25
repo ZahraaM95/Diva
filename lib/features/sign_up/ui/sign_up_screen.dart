@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../../../core/widgets/app_text_btton.dart';
+
 class SignupScreen extends StatelessWidget {
   const SignupScreen({super.key});
   @override
@@ -23,7 +25,9 @@ class SignupScreen extends StatelessWidget {
               const AddFormField(
                 hintText: ' Password ',
               ),
-
+              const AppTextButton(),
+              const SizedBox(height: 20),
+  
             ],
           ),
         ),
