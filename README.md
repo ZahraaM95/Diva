@@ -1,16 +1,2 @@
-# diva
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SignInScreen https://mahmoudabuelazem.atlassian.net/browse/DIVA-8?atlOrigin=eyJpIjoiOGU1YTY3NGQ5MjZhNDFkNWJhN2M3M2QyNDAyMzYxZWYiLCJwIjoiaiJ9 <img width="194" alt="sign_up" src="https://github.com/user-attachments/assets/b8393270-fc67-44fb-99aa-835b4822f73e">
+<img width="179" alt="Screenshot 2024-09-27 061608" src="https://github.com/user-attachments/assets/98c07970-e430-45d7-a51b-4e9c860e2fdb">
