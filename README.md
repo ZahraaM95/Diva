@@ -1,4 +1,4 @@
-SignUp design 🎨 SignupScreen_UI
+SignUp design 🎨 git commit -m "DIVA-6 <message>" SignupScreen_UI
 
 
 
