@@ -1,4 +1,4 @@
-SignUp design 🎨 git commit -m "DIVA-6 <message>" SignupScreen_UI
+SignUp design 🎨 [git commit -m "DIVA-6 <message>"](https://mahmoudabuelazem.atlassian.net/browse/DIVA-6?atlOrigin=eyJpIjoiYWY3ZjYzZTJmNDIwNDU4NDk5ZjQwMDdlOTVjNmFjZjkiLCJwIjoiaiJ9) SignupScreen_UI
 
 
 
